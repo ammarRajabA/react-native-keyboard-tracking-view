@@ -1,24 +1,56 @@
 {
+  "_args": [
+    [
+      "react-native-keyboard-tracking-view@5.6.1",
+      "/Users/ammarraj/Desktop/bitmex/bitmex-trading"
+    ]
+  ],
+  "_from": "react-native-keyboard-tracking-view@5.6.1",
+  "_id": "react-native-keyboard-tracking-view@5.6.1",
+  "_inBundle": false,
+  "_integrity": "sha512-uud94SDB2ffGWQHb2ehCIxNi1lmSOQneZ/ro3Zb6Nu6yEh4ljqr1fbRco+pU1RWzaM73uS32A3vPu3NuXjPceA==",
+  "_location": "/react-native-keyboard-tracking-view",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-keyboard-tracking-view@5.6.1",
+    "name": "react-native-keyboard-tracking-view",
+    "escapedName": "react-native-keyboard-tracking-view",
+    "rawSpec": "5.6.1",
+    "saveSpec": null,
+    "fetchSpec": "5.6.1"
+  },
+  "_requiredBy": [
+    "/",
+    "/react-native-keyboard-input"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-keyboard-tracking-view/-/react-native-keyboard-tracking-view-5.6.1.tgz",
+  "_spec": "5.6.1",
+  "_where": "/Users/ammarraj/Desktop/bitmex/bitmex-trading",
+  "author": {
+    "name": "Artal Druk",
+    "email": "artald@wix.com"
+  },
+  "bugs": {
+    "url": "https://github.com/wix/react-native-keyboard-tracking-view/issues"
+  },
+  "description": "React Native UI component which tracks the keyboard",
+  "homepage": "https://github.com/wix/react-native-keyboard-tracking-view",
+  "license": "MIT",
+  "main": "index.js",
   "name": "react-native-keyboard-tracking-view",
+  "nativePackage": true,
+  "peerDependencies": {
+    "react-native": ">=0.51.0",
+    "react": ">=16.0.0"
+  },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wix/react-native-keyboard-tracking-view.git"
+    "url": "git+https://github.com/wix/react-native-keyboard-tracking-view.git"
   },
-  "version": "5.6.1",
-  "description": "React Native UI component which tracks the keyboard",
-  "nativePackage": true,
-  "bugs": {
-    "url": "https://github.com/wix/react-native-keyboard-tracking-view/issues"
-  },
-  "homepage": "https://github.com/wix/react-native-keyboard-tracking-view",
-  "main": "index.js",
-  "author": "Artal Druk <artald@wix.com>",
-  "license": "MIT",
-  "peerDependencies": {
-    "react-native": ">=0.51.0",
-    "react": ">=16.0.0"
-  }
+  "version": "5.6.1"
 }
